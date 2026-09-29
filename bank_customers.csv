@@ -1,0 +1,41 @@
+Customer_ID,Customer_Name,Gender,Age,Occupation,Account_Type,Balance,Branch,City
+C001,Aarav Sharma,Male,28,Software Engineer,Savings,85000,Pune Main,Pune
+C002,Ananya Patil,Female,32,Teacher,Savings,62000,Nagpur Main,Nagpur
+C003,Rohan Deshmukh,Male,41,Businessman,Current,145000,Mumbai Central,Mumbai
+C004,Priya Kulkarni,Female,29,Data Analyst,Savings,78000,Pune Main,Pune
+C005,Vivek Joshi,Male,35,Doctor,Savings,125000,Nashik Main,Nashik
+C006,Neha Sharma,Female,26,Designer,Savings,54000,Aurangabad Main,Aurangabad
+C007,Aditya Patil,Male,45,Businessman,Current,210000,Nagpur Main,Nagpur
+C008,Sneha Desai,Female,38,Manager,Savings,98000,Mumbai Central,Mumbai
+C009,Kunal Shah,Male,31,Accountant,Savings,73000,Pune Main,Pune
+C010,Pooja More,Female,42,Teacher,Savings,88000,Nashik Main,Nashik
+C011,Akash Gupta,Male,50,Businessman,Current,265000,Mumbai Central,Mumbai
+C012,Riya Joshi,Female,27,Software Engineer,Savings,91000,Pune Main,Pune
+C013,Rahul Patil,Male,36,Engineer,Savings,112000,Nagpur Main,Nagpur
+C014,Simran Singh,Female,34,Doctor,Savings,135000,Mumbai Central,Mumbai
+C015,Manish Yadav,Male,29,Sales Executive,Savings,48000,Aurangabad Main,Aurangabad
+C016,Kavya Sharma,Female,40,Manager,Current,155000,Pune Main,Pune
+C017,Sachin More,Male,33,Teacher,Savings,67000,Nashik Main,Nashik
+C018,Isha Kulkarni,Female,25,Designer,Savings,52000,Aurangabad Main,Aurangabad
+C019,Abhishek Joshi,Male,47,Engineer,Current,185000,Nagpur Main,Nagpur
+C020,Meera Patil,Female,39,Accountant,Savings,96000,Pune Main,Pune
+C021,Raj Deshmukh,Male,55,Businessman,Current,320000,Mumbai Central,Mumbai
+C022,Tanvi Shah,Female,31,Software Engineer,Savings,105000,Pune Main,Pune
+C023,Harsh Gupta,Male,44,Manager,Current,175000,Nashik Main,Nashik
+C024,Nikita More,Female,28,Teacher,Savings,59000,Aurangabad Main,Aurangabad
+C025,Omkar Sharma,Male,37,Doctor,Savings,142000,Pune Main,Pune
+C026,Shreya Patil,Female,43,Engineer,Savings,118000,Nagpur Main,Nagpur
+C027,Varun Joshi,Male,30,Accountant,Savings,69000,Nashik Main,Nashik
+C028,Anjali Desai,Female,36,Manager,Current,160000,Mumbai Central,Mumbai
+C029,Deepak Singh,Male,52,Businessman,Current,285000,Pune Main,Pune
+C030,Payal Yadav,Female,33,Sales Executive,Savings,61000,Aurangabad Main,Aurangabad
+C031,Arjun Gupta,Male,48,Software Engineer,Current,195000,Pune Main,Pune
+C032,Divya Sharma,Female,41,Doctor,Savings,128000,Mumbai Central,Mumbai
+C033,Nikhil Patil,Male,39,Engineer,Savings,109000,Nagpur Main,Nagpur
+C034,Swati Kulkarni,Female,30,Accountant,Savings,76000,Nashik Main,Nashik
+C035,Sameer More,Male,46,Manager,Current,170000,Pune Main,Pune
+C036,Aditi Joshi,Female,37,Teacher,Savings,83000,Nagpur Main,Nagpur
+C037,Yash Deshmukh,Male,27,Designer,Savings,57000,Aurangabad Main,Aurangabad
+C038,Komal Shah,Female,45,Businesswoman,Current,220000,Mumbai Central,Mumbai
+C039,Akshay Gupta,Male,34,Software Engineer,Savings,99000,Pune Main,Pune
+C040,Rekha Patil,Female,49,Doctor,Savings,150000,Nashik Main,Nashik
