@@ -172,4 +172,19 @@ The project identifies:
 * Highest balance
 * Lowest balance
 * Balance distribu
+  
+  🔮 Future Enhancements
+Create an interactive Power BI banking dashboard
+Add customer segmentation
+Add transaction-level analysis
+Add credit-risk analysis
+Add Machine Learning for customer classification
+Add interactive Plotly charts
+Connect the dataset to SQL
+👩‍💻 Author
+Shejal Dhakate
+
+Aspiring Data Analyst | Python | Pandas | NumPy | Matplotlib
+
+<p align="center"> ⭐ If you found this project useful, consider giving it a star! </p>
 
